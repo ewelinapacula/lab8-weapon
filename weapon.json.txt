@@ -1,0 +1,6 @@
+{
+  "id": "w001",
+  "name": "Miecz Testowy",
+  "damage": 42,
+  "rarity": "epic"
+}
